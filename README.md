@@ -23,3 +23,15 @@ Bu proje, Flutter kullanılarak geliştirilmiş bir Taş-Kağıt-Makas oyunudur.
 1. Bu projeyi bilgisayarınıza klonlayın:
    ```sh
    git clone https://github.com/kullaniciadi/tas-kagit-makas.git
+
+2. Proje dizinine gidin:
+   ```sh
+   cd tas-kagit-makas
+   
+3. Gerekli paketleri yükleyin:
+   ```sh
+   flutter pub get
+
+4. Uygulamayı çalıştırın:
+   ```sh
+   flutter run
