@@ -18,7 +18,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş bir Taş-Kağıt-Makas oyunudur.
 ![image](https://github.com/nnurrs/tas-kagit-makas-app--Flutter/assets/96475696/9438746d-257f-4bfd-8ab4-3c5deedb2a59)
 
 
-# Kurulum 
+# Uygulamayı kullanmak için:
 
 1. Bu projeyi bilgisayarınıza klonlayın:
    ```sh
